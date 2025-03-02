@@ -28,13 +28,13 @@ This project is part of the **main repository** and focuses on **AI-driven scree
 
 ## **Screenshots** 
 
-![Screenshot 1](img/Screenshot%202025-02-24%20034920.png)
+![Screenshot 1]( Screenshot%202025-02-24%20034920.png)
 
-![Screenshot 2](img/Screenshot%202025-02-23%20172404.png)
+![Screenshot 2]( Screenshot%202025-02-23%20172404.png)
 
-![Screenshot 3](img/Screenshot%202025-02-23%20182109.png)
+![Screenshot 3]( Screenshot%202025-02-23%20182109.png)
 
-![Screenshot 4](img/a7789d0a-b2e4-47f9-8fb9-f653ebd77a37.jfif)
+![Screenshot 4]( a7789d0a-b2e4-47f9-8fb9-f653ebd77a37.jfif)
 
 ## **Technical Implementation**  
 
